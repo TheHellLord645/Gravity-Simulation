@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\Shejin\Projects\C++\Gravity Simulation\src\vector2.cpp(129,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(30,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(30,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(72,44): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(80,41): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(102,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(127,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Shejin\Projects\C++\Gravity Simulation\src\main.cpp(131,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Gravity Simulation.vcxproj -> D:\Shejin\Projects\C++\Gravity Simulation\x64\Debug\Gravity Simulation.exe
